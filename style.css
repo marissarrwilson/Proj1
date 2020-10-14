@@ -1,0 +1,77 @@
+.navbar {
+  background-color: rgba(16, 17, 19, 0.925);
+  color: white;
+}
+
+.jumbotron {
+  color:white;
+  padding: 30px;
+  background: none;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg");
+  background-size: cover;
+}
+
+.jumbotron2 {
+  color:white;
+  padding: 30px;
+  background-image: url("https://i.pinimg.com/originals/c0/cc/68/c0cc6805ba552bee3b46af18ea3775a0.jpg");
+  background-size: cover;
+}
+
+#diet {
+  margin-left: 15px;
+}
+
+#health {
+  margin-left: 15px;
+}
+
+.results-container {
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+}
+
+.card-img-top {
+  max-height: 300px;
+  height: auto;
+  background-size: cover;
+}
+
+footer {
+  background-color: rgba(16, 17, 19, 0.925);
+  color: white;
+}
+
+#location {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.curLocation {
+  margin-right: 15px;
+}
+
+#keywords {
+  margin-right: 15px;
+}
+
+.results-container {
+  display: none;
+  margin-bottom: 3%;
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+}
+
+.page-footer {
+  position: fixed;
+  bottom: 0;
+  width:100%;
+  padding-bottom: 15px;
+  padding-top: 5px;
+}
+.card {
+  margin-bottom: 3%;
+}
+
+.detailsBtn {
+  float: bottom;
+}
