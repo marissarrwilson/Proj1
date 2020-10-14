@@ -17,19 +17,18 @@ This project consists of the following files:
 * style.css: General styling of index.html and recipeFinder.html
 
 This project is made using HTML5, CSS, Javascript, jQuery, Bootstrap, Yelp Fusion API and EDAMAM's Recipe Search API
-This project is currently hosted on Github Pages: https://elwinung0120.github.io/Project1/
 
 script.js and script2.js
-![Restaurant Finder Homepage](images/wfd1)
+![Restaurant Finder Homepage](wfd1)
 
 Send API calls to Yelp Fusion API/EDAMAM's Recipe Search API
-![Restaurant Finder - Results Page](images/wfd2)
+![Restaurant Finder - Results Page](wfd2)
 
 Insert contents for results using response from the APIs
-![Recipe Finder Homepage](images/wfd3)
+![Recipe Finder Homepage](wfd3)
 
 Check for user inputs and insert as API parameters if not blank
-![Recipe Finder - Results Page](images/wfd4)
+![Recipe Finder - Results Page](wfd4)
 
 ## Future Developments
 * Add ability to search for multiple dietary restrictions, include others with access to full API
