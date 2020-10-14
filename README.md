@@ -18,16 +18,16 @@ This project consists of the following files:
 
 This project is made using HTML5, CSS, Javascript, jQuery, Bootstrap, Yelp Fusion API and EDAMAM's Recipe Search API
 
-script.js and script2.js
+## script.js and script2.js
 ![Restaurant Finder Homepage](images/wfd1.jpg)
 
-Send API calls to Yelp Fusion API/EDAMAM's Recipe Search API
+## Send API calls to Yelp Fusion API/EDAMAM's Recipe Search API
 ![Restaurant Finder - Results Page](images/wfd2.jpg)
 
-Insert contents for results using response from the APIs
+## Insert contents for results using response from the APIs
 ![Recipe Finder Homepage](images/wfd3.jpg)
 
-Check for user inputs and insert as API parameters if not blank
+## Check for user inputs and insert as API parameters if not blank
 ![Recipe Finder - Results Page](images/wfd4.jpg)
 
 ## Future Developments
