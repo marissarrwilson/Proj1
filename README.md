@@ -18,6 +18,8 @@ This project consists of the following files:
 
 This project is made using HTML5, CSS, Javascript, jQuery, Bootstrap, Yelp Fusion API and EDAMAM's Recipe Search API
 
+Link to deployed application: https://marissarrwilson.github.io/Proj1/
+
 ## script.js and script2.js
 ![Restaurant Finder Homepage](images/wfd1.jpg)
 
